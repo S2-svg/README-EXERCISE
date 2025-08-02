@@ -35,6 +35,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## 📸 Screenshots
+![Dashboard Screenshot](statment.png)
+
+![Dashboard Screenshot](record.webp)
+
+![Dashboard Screenshot](finance.jpg)
+
+
 ## 📦 Installation Instructions
 ```bash
 git clone https://github.com/yourusername/fintrack.git
@@ -74,21 +82,13 @@ npm start
 
 ## 👥 Contributors
 
-* [@S2-svg (S2-svg)](https://github.com/yourusername) – Full Stack Developer
-
+![@S2-svg](https://contrib.rocks/image?repo=S2-svg/README-EXERCISE-file)  Full Stack Developer
 
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 
 
-## 📸 Screenshots
-![Dashboard Screenshot](statment.png)
 
-
-![Dashboard Screenshot](record.webp)
-
-
-![Dashboard Screenshot](finance.jpg)
 
 
