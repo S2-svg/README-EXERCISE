@@ -82,7 +82,7 @@ npm start
 
 ## 👥 Contributors
 
-![@S2-svg](https://contrib.rocks/image?repo=radytrainer/demo-readme-file)  Full Stack Developer
+![@S2-svg](https://contrib.rocks/image?repo=S2-svg/README-EXERCISE)
 
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
