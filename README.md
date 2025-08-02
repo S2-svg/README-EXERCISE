@@ -61,6 +61,7 @@ cd ../client
 npm start
 ```
 
+
 ## 🚀 Usage
 
 1. Open your browser and go to `http://localhost:3000`
@@ -82,11 +83,10 @@ npm start
 
 ## 👥 Contributors
 
-![@S2-svg](https://contrib.rocks/image?repo=S2-svg/README-EXERCISE-file)  Full Stack Developer
+![S2-svg](https://github.com/S2-svg) Full Stack Developer
 
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
 
 
 
